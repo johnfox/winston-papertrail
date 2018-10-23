@@ -18,13 +18,13 @@
   "devDependencies": {
     "mocha": "^2.0.1",
     "should": "^4.3.0",
-    "winston": ">=0.6.x"
+    "winston": "^3.0.0"
   },
   "dependencies": {
     "glossy": "^0.1.7"
   },
   "peerDependencies": {
-    "winston": ">=0.6.x"
+    "winston": "^3.0.0"
   },
   "main": "./lib/winston-papertrail",
   "scripts": {
